@@ -76,10 +76,6 @@ Our trained CNN model achieved an accuracy of 96.77%, making it a promising tool
 | Model Type   | CNN      |
 | Training     | TensorFlow (GPU-enabled) |
 
-Visualization:
-
-![Training Accuracy](https://via.placeholder.com/800x300.png?text=Training+Accuracy+Graph)  
-![Confusion Matrix](https://via.placeholder.com/800x300.png?text=Confusion+Matrix)
 
 ---
 
