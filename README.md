@@ -1,6 +1,6 @@
 # Plant_Disease_Prediciton_CNN
 
-# 🌿 Plant Disease Detection Using Convolutional Neural Network (CNN)
+# 🌿Plant Disease Detection Using Convolutional Neural Network (CNN)🌿
 
 > Accurate, Fast, and Automated Plant Disease Detection for Precision Agriculture
 
